@@ -1,2 +1,1 @@
-#snake game for practice
-##practicing making files and such
+This snake game was created using the Java software language within the Eclipse environment
